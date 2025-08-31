@@ -38,7 +38,6 @@
 
 
 ## 🎯 Result
-- 데이터 분석에 대한 세부 인사이트는 포트폴리오 추가 내용 참조
 - 해당 전자상거래의 경우 특정 요소에 의한 판매량 증감의 추세는 보이지 않는다.
 <br/><br/><br/>
 
@@ -49,39 +48,58 @@
 - 제품의 브랜드와 특성을 살린 최적 가격 정책 필요.
 <br/><br/><br/>
 
-**가격과 판매량 관계 탐색**
+**1) 가격과 판매량 관계 탐색**
 - 저가의 제품이 더 많이 팔리는가?
-<img width="912" height="580" alt="image" src="https://github.com/user-attachments/assets/98441db7-40e4-401d-a344-35364bf12478" />
+<img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/98441db7-40e4-401d-a344-35364bf12478" />
 <br/><br/><br/>
 
 
-**할인율 효과 분석**
+**2) 할인율 효과 분석**
 
-<img width="587" height="327" alt="image" src="https://github.com/user-attachments/assets/05a24756-4980-457c-a78b-bbda9cacab6c" />
+<img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/05a24756-4980-457c-a78b-bbda9cacab6c" />
 <img width="1183" height="327" alt="image" src="https://github.com/user-attachments/assets/4f665d60-08fa-4642-b4b3-a858be73666f" />
 
 
 <br/><br/><br/>
 
-**프로모션 및 기타 요인과의 관계성**
+**3) 프로모션 및 기타 요인과의 관계성**
 
 <img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/43ccb900-ee6d-448f-9198-8457ca372c51" />
 <br/><br/><br/>
 
-**경쟁사 가격 효과**
+**4) 경쟁사 가격 효과**
 
-<img width="661" height="437" alt="image" src="https://github.com/user-attachments/assets/69d677c7-8899-4138-a93f-9bf3daeacc06" />
-
+<img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/69d677c7-8899-4138-a93f-9bf3daeacc06" />
 <br/><br/><br/>
 
-**XGBoost 결과**
-- LightGBM과 RMSE값이 1로 동일함.
+**시계열 특성 추가**
+
+<img width="490" height="300" alt="image" src="https://github.com/user-attachments/assets/f8ffd194-382e-4453-8f2d-cd6da551304b" />
+<br/><br/><br/>
+
+
+**모델학습 결과**
+- XGBoost, LightGBM 모두 RMSE값이 1로 동일함.
+- LightGBM
+<img width="882" height="315" alt="image" src="https://github.com/user-attachments/assets/044fadb0-4a07-4f87-9539-fcf4e630d7cd" />
+<br/><br/><br/>
+
+- 변수 중요도
+<img width="879" height="308" alt="image" src="https://github.com/user-attachments/assets/4faf2cf6-2d32-42d7-b21f-8e1838818f97" />
+<br/><br/><br/>
+
+- XGBoost
 <img width="880" height="317" alt="image" src="https://github.com/user-attachments/assets/3130cd72-36ae-42f3-aae7-d1aa00765035" />
 <br/><br/><br/>
 
 - 변수 중요도
 <img width="880" height="308" alt="image" src="https://github.com/user-attachments/assets/343889f6-de49-42b3-b4eb-0ebd1e9b1cb1" />
+<br/><br/><br/>
 
+**가격 추천**
+
+<img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/df01e7f1-7738-4205-abdb-276f6129adf7" />
+<br/><br/><br/>
 
 
 
