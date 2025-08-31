@@ -49,7 +49,6 @@
 <br/><br/><br/>
 
 **1) 가격과 판매량 관계 탐색**
-- 저가의 제품이 더 많이 팔리는가?
 <img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/98441db7-40e4-401d-a344-35364bf12478" />
 <br/><br/><br/>
 
