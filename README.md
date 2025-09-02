@@ -97,7 +97,7 @@
 
 **가격 추천**
 
-<img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/df01e7f1-7738-4205-abdb-276f6129adf7" />
+<img width="600" height="630" alt="image" src="https://github.com/user-attachments/assets/75944936-f481-4ddb-a108-351ec3e09318" />
 <br/><br/><br/>
 
 
